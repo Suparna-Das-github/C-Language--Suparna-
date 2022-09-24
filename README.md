@@ -1,2 +1,1 @@
-# Number of Error in your Compiler
- C language 
+Trying to gain some insights about C language
