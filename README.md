@@ -1,1 +1,2 @@
-# Palindrome-number-C--Suparna
+# Number of Error in your Compiler
+ C language 
